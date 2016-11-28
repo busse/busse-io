@@ -5,7 +5,7 @@ headline: Start
 seq: 161128
 ---
 
-I decided to start a daily blog in 2017. Ignore that this post is going up on November 28, 2016 - I’m giving myself a bit of a runway to nail the “daily” habit.
+I have decided to start a blogging daily in 2017. Ignore that this post is going up on November 28, 2016 - I’m giving myself a bit of a runway to nail the “daily” habit.
 
 I wouldn’t say I’ve been in a creative rut, but I’ve had two interrelated things going on that have made it so that I’m not making the progress in one creative area that I want:
 
