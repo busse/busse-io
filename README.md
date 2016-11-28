@@ -1,2 +1,2 @@
 # busse-io
-GitHub Pages / Jekyll site for busse.io
+http://busse.io

@@ -1,0 +1,26 @@
+---
+layout: default
+title: busse.io
+headline: busse.io
+---
+
+<div class="row content1">
+	<div class="col-sm-offset-2 col-sm-8">
+        {% assign articles = site.articles | sort: 'seq' | reverse %}
+		{% for article in articles %}
+
+          <p>{{ article.seq }}: <a href="{{ article.url }}">{{ article.title }}</a></p>
+
+        {% endfor %}
+
+	</div>
+</div>
+
+<div class="row content3">
+    <div class="col-sm-offset-2 col-sm-4"></div>
+    <div class="col-sm-4"></div>
+</div>
+
+<div class="row footer">
+    <div class="col-sm-offset-2 col-sm-8"></div>
+</div>
