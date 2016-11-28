@@ -23,6 +23,6 @@ This site is my attempt to cure that. Admittedly it isn’t the first time I’v
 
       - 20% not really about visual content - other topics, my process for this site, general opinion pieces, technology, gear & hardware, etc.
 
-  3. Spend about two Pomodoros on each post (with the exception of some longer pieces that I'll break up and work extra on)
+  3. Spend about two [Pomodoros](https://en.wikipedia.org/wiki/Pomodoro_Technique) on each post (with the exception of some longer pieces that I'll break up and work extra on)
 
 I’m excited to see where this leads…
