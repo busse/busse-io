@@ -5,7 +5,7 @@ headline: Downtime in Jackson Hole, WY
 seq: 161201
 ---
 
-<img src="/assets/2014-Jackson-Hole-Hotel-Window.jpg" width="750">
+<img src="/assets/2014-Jackson-Hole-Hotel-Window.jpg" width="100%">
 
 *Text from Field Notes, August 17, 2014 at the Quality Inn 49er, Jackson Hole, WY*
 
