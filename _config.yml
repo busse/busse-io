@@ -5,3 +5,7 @@ collections:
 
 gems:
   - jemoji
+
+name: busse.io
+description: A collection of thoughts by Chris Busse
+url: http://busse.io
