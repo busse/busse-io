@@ -3,6 +3,7 @@ layout: default-md
 title: Start
 headline: Start
 seq: 161128
+date: 2016-11-28
 ---
 
 I have decided to start a blogging daily in 2017. Ignore that this post is going up on November 28, 2016 - I’m giving myself a bit of a runway to nail the “daily” habit.

@@ -3,6 +3,7 @@ layout: default-md
 title: Downtime in Jackson Hole, WY
 headline: Downtime in Jackson Hole, WY
 seq: 161201
+date: 2016-12-01
 ---
 
 <img src="/assets/2014-Jackson-Hole-Hotel-Window.jpg" width="100%">

@@ -3,6 +3,7 @@ layout: default-md
 title: Video | Field Notes - Black Ice Winter 2016 Quarterly Subscription Unboxing 
 headline: Video | Field Notes - Black Ice Winter 2016 Quarterly Subscription Unboxing 
 seq: 161130
+date: 2016-11-30
 ---
 
 <p align="center">
