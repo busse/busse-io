@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/main.css" type="text/css" />
 	<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:700" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Open+Sans:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
  	<link href="/feed.xml" type="application/rss+xml" rel="alternate" title="busse.io" />
 </head>
  
@@ -30,7 +30,13 @@
 		</div>
 		<div class="row footer">
 	        <div class="col-sm-offset-2 col-sm-8">
-	        	{% include footer.html %}	
+	        	<div class="panel panel-default">
+					<div class="panel-body">
+			        	{% include newsletter-cta.html %}	
+			        	{% include footer.html %}	
+			        </div>
+			    </div>
+
 			</div>		
 		</div>
 	</div>
