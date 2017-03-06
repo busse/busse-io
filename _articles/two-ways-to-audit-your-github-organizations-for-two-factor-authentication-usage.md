@@ -65,3 +65,10 @@ GitHub also had a feature, [that enables an Organziation owner to remove everyon
 *Questions or feedback on this article can be sent to <a href="mailto:chrisbusse@gmail.com">chrisbusse@gmail.com</a> or entered in the <a href="https://github.com/busse/busse-io/issues">Issues for the busse.io GitHub repo</a>. If you need help with your API Program, that's what we do at <a href="http://apivista.com">APIvista</a>.*
 
 ---
+
+<p align="center">
+If you :heart: this article, give it a Like, Retweet or Reply!
+
+<blockquote class="twitter-tweet" data-lang="en" align="center"><p lang="en" dir="ltr">Two ways to audit your GitHub Organizations for Two-Factor Authentication usage <a href="https://t.co/zcaJgw1XsL">https://t.co/zcaJgw1XsL</a> <a href="https://twitter.com/hashtag/Security?src=hash">#Security</a> <a href="https://twitter.com/hashtag/github?src=hash">#github</a></p>&mdash; Chris Busse (@busse) <a href="https://twitter.com/busse/status/838827485080997888">March 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
