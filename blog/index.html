@@ -9,7 +9,7 @@ headline: busse.io
         {% assign articles = site.articles | sort: 'seq' | reverse %}
 		{% for article in articles %}
 
-          <p>{{ article.seq }}: <a href="{{ article.url }}">{{ article.title }}</a></p>
+          <p>{{ article.seq }}: <a href="/blog{{ article.url }}">{{ article.title }}</a></p>
 
         {% endfor %}
 
