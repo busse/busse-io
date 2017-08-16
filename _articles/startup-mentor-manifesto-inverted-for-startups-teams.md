@@ -4,6 +4,10 @@ title: The Startup Mentor Manifesto, Inverted for Startup Teams
 headline: The Startup Mentor Manifesto, Inverted for Startup Teams
 seq: 170308
 date: 2017-03-08
+location: Richmond, VA
+context: VCU Startup Spring Break
+category: Startups
+tags:
 ---
 
 This post is a review of the Techstars [Mentor Manifesto](http://www.techstars.com/mentoringattechstars/), from an inverted perspective, to guide startup teams on how they should think about their relationship with mentors (especially during an accellerator program).

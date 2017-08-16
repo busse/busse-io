@@ -4,6 +4,10 @@ title: Two ways to audit your GitHub Organizations for Two-Factor Authentication
 headline: Two ways to audit your GitHub Organizations for Two-Factor Authentication usage
 seq: 170306
 date: 2017-03-06
+location: Richmond, VA
+context: Work
+category: Software
+tags:
 ---
 
 On a call with a client, one of the Tech Leads implored everyone to make sure they had Two-Factor Authentication (2FA) set on their GitHub accounts.

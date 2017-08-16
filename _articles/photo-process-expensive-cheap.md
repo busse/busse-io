@@ -4,6 +4,10 @@ title: Photo process -> Expensive + Cheap
 headline: Photo process -> Expensive + Cheap
 seq: 161131
 date: 2016-11-31
+location: Yellowstone National Park
+context: Travel
+category: Photography
+tags:
 ---
 
 <img src="/assets/2014-Yellowstone-Tree-Holga-ish.jpg" width="750">

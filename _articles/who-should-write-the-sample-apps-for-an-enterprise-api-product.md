@@ -4,6 +4,10 @@ title: Who should write the sample apps for an Enterprise API Product?
 headline: Who should write the sample apps for an Enterprise API Product?
 seq: 170303
 date: 2017-03-03
+location: Richmond, VA
+context: Work
+category: Software
+tags:
 ---
 
 > *Hey Busse! On an Developer Platform, where do you think the responsibility of providing sample apps for the API Consuming developer lies? Who creates, owns, and maintains it - the Engineering Team who owns the API Product, or the Developer Platform Team responsible for running the portal and the developer relations program?*

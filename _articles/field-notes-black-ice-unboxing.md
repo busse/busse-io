@@ -4,6 +4,10 @@ title: Video | Field Notes - Black Ice Winter 2016 Quarterly Subscription Unboxi
 headline: Video | Field Notes - Black Ice Winter 2016 Quarterly Subscription Unboxing 
 seq: 161130
 date: 2016-11-30
+location: Richmond, VA
+context: Work
+category: Product
+tags:
 ---
 
 <p align="center">

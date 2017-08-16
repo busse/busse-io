@@ -4,6 +4,10 @@ title: Laundry Room, Busse House in Charlottesville, VA
 headline: Laundry Room, Busse House in Charlottesville, VA
 seq: 161129
 date: 2016-11-29
+location: Charlottesville, VA
+context: ???
+category: Photography
+tags:
 ---
 
 
