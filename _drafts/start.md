@@ -27,3 +27,4 @@ This site is my attempt to cure that. Admittedly it isn’t the first time I’v
   3. Spend about two [Pomodoros](https://en.wikipedia.org/wiki/Pomodoro_Technique) on each post (with the exception of some longer pieces that I'll break up and work extra on)
 
 I’m excited to see where this leads…
+
